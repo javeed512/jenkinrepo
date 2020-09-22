@@ -1,0 +1,30 @@
+ Volume in drive F is New Volume
+ Volume Serial Number is A6B2-B3B6
+
+ Directory of F:\Javeed
+
+22-09-2020  17:52    <DIR>          .
+22-09-2020  17:52    <DIR>          ..
+04-08-2017  03:03         2,943,509 collections.pdf
+05-09-2020  06:06           635,392 collections.ppt
+04-09-2020  01:32            16,147 collection_intro.png
+22-09-2020  16:54               417 Demo.class
+22-09-2020  23:00               117 Demo.java
+22-09-2020  17:52                 0 demo.txt
+22-09-2020  23:21               740 file2.war
+04-08-2017  03:03         1,468,231 Generics.pdf
+20-09-2020  01:06            27,059 git_distributedsystem.png
+20-09-2020  01:20            18,383 git_github.png
+02-09-2020  06:01               903 hashcode_equals.txt
+15-09-2020  03:01            27,942 input_output_diagram.png
+17-09-2020  07:50            29,221 Java_UI_FullStackTrainerProfile.docx
+22-09-2020  17:16         3,141,038 jenkins-cli.jar
+04-09-2020  01:38            18,826 List.png
+04-09-2020  02:24            19,199 Map.png
+22-09-2020  17:37    <DIR>          myapplication
+22-09-2020  23:20               740 myfile.jar
+10-09-2020  02:36            13,003 observables.png
+04-09-2020  01:56            27,287 Set.png
+17-09-2020  06:03            19,627 sonarserver.png
+              20 File(s)      8,407,781 bytes
+               3 Dir(s)  293,868,462,080 bytes free
